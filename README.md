@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> This app is to alert you if will rain in the next 12 hours
+> This app is to alert you if it will rain in the next 12 hours
 
 ## Usage
 
